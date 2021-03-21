@@ -15,3 +15,7 @@ Inspired from 3Blue1Brown to learn mathematics with vizualization and use these 
 3. The notebooks folder contains a jupter notebook which shows how to use the functions from src (approx.py) to vizualize things.
 
 Feel free to play around and implement other functions(like sin, e^x) and see how the approxmiations get better.
+
+## TO-DO
+
+Show how the Taylor Serier fails to approximate nasty discontinued function f(x) = 1/x when x<0 (As the funtion is undefined at x = 0 and if we start with x=1 we just get the upper right half the graph).
