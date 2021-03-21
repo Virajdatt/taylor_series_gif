@@ -72,7 +72,7 @@ def approx_plotting(approx, n_frames=3):
 
 
 def create_gif(filename, images):
-    """This function is to create a gif by typing up the various plots created.
+    """This function is to create a gif by tying up the various plots generated.
 
     Args:
         filename (str): filename with which the gif needs to be saved as
